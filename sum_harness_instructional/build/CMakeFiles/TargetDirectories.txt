@@ -1,0 +1,6 @@
+/mnt/hpc/sum_harness_instructional/build/CMakeFiles/benchmark.dir
+/mnt/hpc/sum_harness_instructional/build/CMakeFiles/sum_direct.dir
+/mnt/hpc/sum_harness_instructional/build/CMakeFiles/sum_vector.dir
+/mnt/hpc/sum_harness_instructional/build/CMakeFiles/sum_indirect.dir
+/mnt/hpc/sum_harness_instructional/build/CMakeFiles/edit_cache.dir
+/mnt/hpc/sum_harness_instructional/build/CMakeFiles/rebuild_cache.dir
